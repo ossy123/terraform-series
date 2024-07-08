@@ -1,4 +1,4 @@
-## **Introduction to Terraform**
+**Introduction to Terraform**
 
 Key Concepts:
 a) **Infrastructure as a Code**
@@ -17,7 +17,7 @@ b) **Benefits:**
   - Improve infrastructure consistency
   - Eliminate configuration drift
 
-##**What is Terraform?:**
+**What is Terraform?:**
   - IaaC tool from Hashicorp
   - Used for building, changing and managing infrastructure in a safe, repeatable way
   - Uses HCL - Hashicorp Configuration Language - human readable
@@ -26,7 +26,7 @@ b) **Benefits:**
   - State management - creates a state file when a project is first initialized. Uses this state file to  create plans and make changes based on the desired and current state of the infrastructure.
   - Creates operator confidence
 
-  ##**Terraform Configuration Files**
+  **Terraform Configuration Files**
 - Terraform uses declarative syntax to describe your Infrastructure as Code (IaC) infrastructure
 and then persist it in configuration files that can be shared, reviewed, edited, versioned,
 preserved, and reused.
